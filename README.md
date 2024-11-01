@@ -1,4 +1,23 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+
+## Project
+
+### commenting( 24.07.26 ~  )
+> anonymous question and answer website
+
+**Repository**
+- [backend](https://github.com/Cod2-Crafters/commenting-back)
+
+<br>
+
+### Devridge ( 23.12.28 ~ 24.04.30 )
+> Bridge for Developer, DEVRIDGE
+
+**Repository**
+- [backend](https://github.com/devridge-team-project/devridge-server)
+
+
+
 
 <!--
 **213kky/213kky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
