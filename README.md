@@ -3,7 +3,7 @@
 ## Project
 
 ### commenting( 24.07.26 ~  )
-> anonymous question and answer website
+> Anonymous question and answer website
 
 **Repository**
 - [backend](https://github.com/Cod2-Crafters/commenting-back)
