@@ -2,6 +2,14 @@
 
 ## Project
 
+### DanjiTalk( 25.01.17 ~  )
+> A Smart Communication Platform for Apartment Residents
+
+**Repository**
+- [backend](https://github.com/DanjiTalk/danji-talk-backend)
+
+
+
 ### commenting( 24.07.26 ~ 24.11.23 )
 > Anonymous question and answer website
 
