@@ -2,7 +2,7 @@
 
 ## Project
 
-### DanjiTalk( 25.01.17 ~  )
+### DanjiTalk( 25.01.17 ~ 25.05.21 )
 > A Smart Communication Platform for Apartment Residents
 
 **Repository**
