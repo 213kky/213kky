@@ -17,7 +17,7 @@
 - [backend](https://github.com/Cod2-Crafters/commenting-back)
 
 **Deployment**
-- [commenting-front-phi.vercel.app](commenting-front-phi.vercel.app)
+- [commenting-front-phi.vercel.app](https://commenting-front-phi.vercel.app)
 
 
 
