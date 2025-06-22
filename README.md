@@ -16,6 +16,9 @@
 **Repository**
 - [backend](https://github.com/Cod2-Crafters/commenting-back)
 
+**Deployment**
+- commenting-front-phi.vercel.app
+
 
 
 ### Devridge ( 23.12.28 ~ 24.04.30 )
